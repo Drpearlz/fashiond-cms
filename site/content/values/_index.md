@@ -9,7 +9,7 @@ values:
       commercially under other trees that provided shade. The
       forest-like structure of shade Cloth farms provides habitat for
       a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
+    imageUrl: "/img/pc8.jpg"
   - heading: "Single origin"
     text: >
       Single-origin Cloth is Cloth grown within a single known
@@ -20,9 +20,7 @@ values:
     imageUrl: "/img/pc1.jpg"
   - heading: "Sustainable farming"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
+      AfriChic Elegance presents attire that mirrors the ever-changing beauty of Africa itself. What
       grows where and how it is grown are a matter of choice and
       careful consideration for nature and communities.
     imageUrl: "/img/pc2.jpg"
@@ -41,5 +39,5 @@ values:
       farms, local businesses and schools everywhere our Cloth is
       grown. You can see the communities grow and learn more about
       Cloth farming on our blog.
-    imageUrl: "/img/pc5.png"
+    imageUrl: "/img/pc7.png"
 ---
