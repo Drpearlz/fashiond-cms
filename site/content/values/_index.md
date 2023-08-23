@@ -17,7 +17,7 @@ values:
       specific collection of beans from a single country. The name of
       the Cloth is then usually the place it was grown to whatever
       degree available.
-    imageUrl: "/img/about-single-origin.jpg"
+    imageUrl: "/img/pc1.jpg"
   - heading: "Sustainable farming"
     text: >
       Sustainable agriculture is farming in sustainable ways based on
@@ -25,7 +25,7 @@ values:
       relationships between organisms and their environment. What
       grows where and how it is grown are a matter of choice and
       careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
+    imageUrl: "/img/pc2.jpg"
   - heading: "Direct sourcing"
     text: >
       We want to truly empower the communities that bring amazing
@@ -33,7 +33,7 @@ values:
       farms, local businesses and schools everywhere our Cloth is
       grown. You can see the communities grow and learn more about
       Cloth farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
+    imageUrl: "/img/pc3.jpg"
   - heading: "Reinvest profits"
     text: >
       We want to truly empower the communities that bring amazing
@@ -41,5 +41,5 @@ values:
       farms, local businesses and schools everywhere our Cloth is
       grown. You can see the communities grow and learn more about
       Cloth farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+    imageUrl: "/img/pc5.png"
 ---
