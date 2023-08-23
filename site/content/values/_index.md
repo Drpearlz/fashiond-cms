@@ -9,7 +9,7 @@ values:
       commercially under other trees that provided shade. The
       forest-like structure of shade Cloth farms provides habitat for
       a great number of migratory and resident species.
-    imageUrl: "/img/pc8.jpg"
+    imageUrl: "/img/pc8.jpeg"
   - heading: "Single origin"
     text: >
       Single-origin Cloth is Cloth grown within a single known
@@ -39,5 +39,5 @@ values:
       farms, local businesses and schools everywhere our Cloth is
       grown. You can see the communities grow and learn more about
       Cloth farming on our blog.
-    imageUrl: "/img/pc7.png"
+    imageUrl: "/img/pc7.jpeg"
 ---
