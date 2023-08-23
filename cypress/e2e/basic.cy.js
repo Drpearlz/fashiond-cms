@@ -4,13 +4,13 @@ describe("empty spec", () => {
   });
 
   it("opens the index page", () => {
-    cy.get("h1").contains("Great coffee with a conscience");
+    cy.get("h1").contains("Great Outfits with a conscience");
   });
 
   it("navigates to the design page", () => {
     cy.get('a[href="/designs"]').eq(0).click();
     cy.url().should("include", "/designs");
-    cy.get("h1").contains(/Our Coffee/i);
+    cy.get("h1").contains(/Our Clothes/i);
   });
 
   it("navigates to the values page", () => {
